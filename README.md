@@ -76,7 +76,8 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 ## Lista de Participantes
 
 1. Sávio Tomé
-2. Iane Oliveira
+
+3. Iane Oliveira
 
 ---
 
