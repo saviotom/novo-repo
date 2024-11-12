@@ -1,4 +1,4 @@
-
+,
 # Exercício Prático de Git
 
 Este exercício prático tem como objetivo trabalhar com conceitos de branching, commits, pull requests e integração de alterações em um repositório Git compartilhado.
@@ -76,7 +76,7 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 ## Lista de Participantes
 
 1. Sávio Tomé
-2. *(Adicione seu nome aqui)*
+2. carlos
 
 ---
 
