@@ -76,7 +76,8 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 ## Lista de Participantes
 
 1. Sávio Tomé
-2. Alexsandro Moraes
+2. Adriel Vinicius
+3. Ithauana Sousa da Silva
+4. Alexsandro Moraes
 
----
 
