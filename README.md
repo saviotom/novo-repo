@@ -77,6 +77,17 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 
 1. Sávio Tomé
 2. Adriel Vinicius
-3. gabriel guady
+3. Ithauana Sousa da Silva
 
+
+
+
+
+
+
+
+
+
+15. ÁLEF NUNES MONTEIRO
+16. gabriel guady
 
