@@ -40,7 +40,7 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
    - Adicione seu nome na lista abaixo do nome do professor:
      
      1. Sávio Tomé
-     2. Seu Nome
+     2. Francisco Felipe Barros dos Santos
      
    - Salve o arquivo.
    - Em seguida, faça o commit da alteração:
@@ -76,7 +76,7 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 ## Lista de Participantes
 
 1. Sávio Tomé
-2. Adriel Vinicius
+2. Francisco Felipe Barros dos Santos
 
 
 
