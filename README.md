@@ -40,8 +40,8 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
    - Adicione seu nome na lista abaixo do nome do professor:
      
      1. Sávio Tomé
-     2. Seu Nome
-     
+     2. marvin matheus 
+          
    - Salve o arquivo.
    - Em seguida, faça o commit da alteração:
      
