@@ -37,8 +37,8 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 
 5. **Adicione Seu Nome na Lista e Faça o Commit:**
 
-   - Adicione seu nome na lista abaixo do nome do professor:
-     
+   - Adicione seu nome na lista abaixo do nome do professo
+    
      a. Sávio Tomé
      b. Seu nome
      
@@ -85,4 +85,15 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 8. Patricia Nascimento
 9. Iane Oliveira
 10. Alexsandro Moraes
-11. Fabiano Vasconcelos
+11. Lucas Silva de Souza
+12. João Eduardo
+13. Antônio Santos
+14. Fabricio Souza
+15. Nycole pio
+16. Marvin Matheus Oliveira
+17. Francisco Felipe Barros dos Santos
+18. gabriel coelho
+19. Moises Souza
+20. Fabiano Vasconcelos
+
+
