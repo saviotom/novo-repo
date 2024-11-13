@@ -77,10 +77,6 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 
 1. Sávio Tomé
 2. Adriel Vinicius
-<<<<<<< HEAD
-3. Fabiola 
-
-=======
 3. Ithauana Sousa da Silva
 4. ÁLEF NUNES MONTEIRO
 5. gabriel guady
@@ -101,7 +97,3 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 20. Fabiano Vasconcelos
 21. Rely Fernandes
 22. Fabiola
->>>>>>> develop
-
-
-.
