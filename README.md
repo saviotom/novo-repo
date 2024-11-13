@@ -85,3 +85,4 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 8. Patricia Nascimento
 9. Iane Oliveira
 10. Alexsandro Moraes
+11. Fabiano Vasconcelos
