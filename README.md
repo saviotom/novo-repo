@@ -83,9 +83,8 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 6. Riquelme Nascimento
 7. Eliza Cecilia
 8. Patricia Nascimento
-
-
-
-12. Fabricio Souza
-
-
+9. Iane Oliveira
+10. Alexsandro Moraes
+11. Lucas Silva de Souza
+12. João Eduardo
+13. Fabricio Souza
