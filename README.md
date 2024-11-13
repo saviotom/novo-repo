@@ -94,6 +94,6 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 17. Francisco Felipe Barros dos Santos
 18. gabriel coelho
 19. Moises Souza
-
+20. Fabiano Vasconcelos
 
 
