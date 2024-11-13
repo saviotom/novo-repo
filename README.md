@@ -81,12 +81,11 @@ Este exercício prático tem como objetivo trabalhar com conceitos de branching,
 4. ÁLEF NUNES MONTEIRO
 5. gabriel guady
 6. Riquelme Nascimento
+7. Eliza Cecilia
+8. Patricia Nascimento
 
 
 
-
-
-9. Eliza Cecilia
 
 
 
